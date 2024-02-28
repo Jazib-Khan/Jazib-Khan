@@ -1,6 +1,16 @@
 ### Jazib Khan 👋
 ---
 
+<center>
+	
+#### About Me
+
+Thoroughly passionate in programming and software development. I've achieved a bachelor's degree in Computing and have immersed myself in software development over a period of 6+ years. 
+
+I have experience as a backend developer working with MVC frameworks following OOP practises as well as frontend mobile app and web development.
+
+</center>
+
 #### I can code in...
 <p float="left">
 	<img title="HTML" src="./images/html.png" width="48"/>
@@ -12,7 +22,6 @@
 	<img title="C#" src="./images/c-sharp.png" width="48"/>
 	<img title="MySQL" src="./images/mysql.png" width="48"/>
 </p>
----
 
 #### I can use...
 
