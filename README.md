@@ -28,7 +28,8 @@ I have experience as a backend developer working with MVC frameworks following O
 <p float="left">
 	<img title="Node.js" src="./images/nodejs.png" width="48"/>
 	<img title="React" src="./images/react.png" width="48"/>
-  <img title="Vue js" src="./images/vuejs.png" width="48"/>
+  	<img title="Vue js" src="./images/vuejs.png" width="48"/>
+	<img title="ASP.NET" src="./images/asp.net" width="48"/>
 	<img title="Laravel" src="./images/laravel.png" width="48"/>
 	<img title="Magento" src="./images/magento.png" width="48"/>
 	<img title="Wordpress" src="./images/wordpress.png" width="48"/>
