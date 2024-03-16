@@ -9,7 +9,7 @@ Strong passion in programming and software development. I've achieved a bachelor
 
 I have experience as a backend developer working with MVC frameworks following OOP practises as well as frontend mobile app and web development.
 
-My [Portfolio](https://jazibkhan-portfolio.netlify.app/).
+My [Portfolio](https://jazib-khan-portfolio.netlify.app/).
 
 </center>
 
