@@ -40,7 +40,6 @@ My [Portfolio](https://jazib-khan-portfolio.netlify.app/).
 	<img title="Git" src="./images/git.png" width="48"/>
 	<img title="MongoDB" src="./images/mongodb.png" width="48"/>
 	<img title="Firebase" src="./images/firebase.png" width="48"/>
-	<img title="Docker" src="./images/docker.png" width="48"/>
 </p>
 
 </center>
