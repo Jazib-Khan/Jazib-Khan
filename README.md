@@ -17,7 +17,7 @@ My [Portfolio](https://jazib-khan-portfolio.netlify.app/).
 <p float="left">
 	<img title="HTML" src="./images/html.png" width="48"/>
 	<img title="CSS" src="./images/css.png" width="48"/>
-	<img title="JS" src="./images/js.png" width="48"/>
+	<img title="JavaScript" src="./images/js.png" width="48"/>
 	<img title="TypeScript" src="./images/ts.png" width="48"/>
 	<img title="PHP" src="./images/php.png" width="48"/>
 	<img title="Python" src="./images/python.png" width="48"/>
@@ -36,7 +36,6 @@ My [Portfolio](https://jazib-khan-portfolio.netlify.app/).
 	<img title="Laravel" src="./images/laravel.png" width="48"/>
 	<img title="Magento" src="./images/magento.png" width="48"/>
 	<img title="Wordpress" src="./images/wordpress.png" width="48"/>
-	<img title="Golang" src="./images/golang.png" width="48"/>
 	<img title="Git" src="./images/git.png" width="48"/>
 	<img title="MongoDB" src="./images/mongodb.png" width="48"/>
 	<img title="Firebase" src="./images/firebase.png" width="48"/>
