@@ -30,7 +30,6 @@ My [Portfolio](https://jazib-khan-portfolio.netlify.app/).
 <p float="left">
 	<img title="Node.js" src="./images/nodejs.png" width="48"/>
 	<img title="React" src="./images/react.png" width="48"/>
-  	<img title="Vue js" src="./images/vuejs.png" width="48"/>
 	<img title="Svelte" src="./images/svelte.png" width="48"/>
 	<img title="ASP.NET" src="./images/asp.net.png" width="48"/>
 	<img title="Laravel" src="./images/laravel.png" width="48"/>
