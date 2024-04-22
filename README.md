@@ -19,7 +19,6 @@ I have experience as a backend developer working with MVC frameworks following O
 	<img title="TypeScript" src="./images/ts.png" width="48"/>
 	<img title="PHP" src="./images/php.png" width="48"/>
 	<img title="Python" src="./images/python.png" width="48"/>
-	<img title="C#" src="./images/c-sharp.png" width="48"/>
 	<img title="MySQL" src="./images/mysql.png" width="48"/>
 </p>
 
@@ -29,7 +28,6 @@ I have experience as a backend developer working with MVC frameworks following O
 	<img title="Node.js" src="./images/nodejs.png" width="48"/>
 	<img title="React" src="./images/react.png" width="48"/>
 	<img title="Svelte" src="./images/svelte.png" width="48"/>
-	<img title="ASP.NET" src="./images/asp.net.png" width="48"/>
 	<img title="Laravel" src="./images/laravel.png" width="48"/>
 	<img title="Magento" src="./images/magento.png" width="48"/>
 	<img title="Wordpress" src="./images/wordpress.png" width="48"/>
