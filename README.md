@@ -32,6 +32,7 @@ I have experience as a backend developer working with MVC frameworks following O
 	<img title="Magento" src="./images/magento.png" width="48"/>
 	<img title="Wordpress" src="./images/wordpress.png" width="48"/>
 	<img title="Git" src="./images/git.png" width="48"/>
+	<img title="Docker" src="./images/docker.png" width="48"/>
 	<img title="MongoDB" src="./images/mongodb.png" width="48"/>
 	<img title="Firebase" src="./images/firebase.png" width="48"/>
 </p>
