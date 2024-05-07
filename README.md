@@ -25,10 +25,10 @@ I have experience as a backend developer working with MVC frameworks following O
 #### I can use...
 
 <p float="left">
-	<img title="Node.js" src="./images/nodejs.png" width="48"/>
+	<img title="Laravel" src="./images/laravel.png" width="48"/>
 	<img title="React" src="./images/react.png" width="48"/>
 	<img title="Svelte" src="./images/svelte.png" width="48"/>
-	<img title="Laravel" src="./images/laravel.png" width="48"/>
+	<img title="Node.js" src="./images/nodejs.png" width="48"/>
 	<img title="Magento" src="./images/magento.png" width="48"/>
 	<img title="Wordpress" src="./images/wordpress.png" width="48"/>
 	<img title="Git" src="./images/git.png" width="48"/>
