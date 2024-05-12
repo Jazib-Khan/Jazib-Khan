@@ -15,9 +15,9 @@ I have experience as a backend developer working with MVC frameworks following O
 <p float="left">
 	<img title="HTML" src="./images/html.png" width="48"/>
 	<img title="CSS" src="./images/css.png" width="48"/>
+	<img title="PHP" src="./images/php.png" width="48"/>
 	<img title="JavaScript" src="./images/js.png" width="48"/>
 	<img title="TypeScript" src="./images/ts.png" width="48"/>
-	<img title="PHP" src="./images/php.png" width="48"/>
 	<img title="Python" src="./images/python.png" width="48"/>
 	<img title="MySQL" src="./images/mysql.png" width="48"/>
 </p>
