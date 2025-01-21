@@ -17,7 +17,6 @@ I have experience as a backend developer working with MVC frameworks following O
 	<img title="CSS" src="./images/css.png" width="48"/>
 	<img title="PHP" src="./images/php.png" width="48"/>
 	<img title="JavaScript" src="./images/js.png" width="48"/>
-	<img title="TypeScript" src="./images/ts.png" width="48"/>
 	<img title="Python" src="./images/python.png" width="48"/>
 	<img title="MySQL" src="./images/mysql.png" width="48"/>
 </p>
@@ -32,8 +31,6 @@ I have experience as a backend developer working with MVC frameworks following O
 	<img title="Vim" src="./images/vim.png" width="48"/>
 	<img title="Git" src="./images/git.png" width="48"/>
 	<img title="Docker" src="./images/docker.png" width="48"/>
-	<img title="Magento" src="./images/magento.png" width="48"/>
-	<img title="Wordpress" src="./images/wordpress.png" width="48"/>
 </p>
 
 </center>
