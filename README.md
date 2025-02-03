@@ -25,7 +25,7 @@ I have experience as a backend developer working with MVC frameworks following O
 
 <p float="left">
 	<img title="Laravel" src="./images/laravel.png" width="48"/>
-	<img title="Laravel" src="./images/livewire.png" width="48"/>
+	<img title="Livewire" src="./images/livewire.png" width="48"/>
 	<img title="React" src="./images/react.png" width="48"/>
 	<img title="Linux" src="./images/linux.png" width="48"/>
 	<img title="Vim" src="./images/vim.png" width="48"/>
