@@ -19,6 +19,7 @@ I have experience as a backend developer working with MVC frameworks following O
 	<img title="JavaScript" src="./images/js.png" width="48"/>
 	<img title="Python" src="./images/python.png" width="48"/>
 	<img title="MySQL" src="./images/mysql.png" width="48"/>
+	<img title="Bash" src="./images/bash.png" width="48"/>
 </p>
 
 #### I can use...
