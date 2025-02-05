@@ -5,9 +5,7 @@
 	
 #### About Me
 
-Strong passion in programming and software development. I've achieved a bachelor's degree in Computing and have immersed myself in software development. 
-
-I have experience as a backend developer working with MVC frameworks following OOP practises as well as frontend mobile app and web development.
+Highly motivated Full Stack Developer. I have a degree in Computer Science and have immersed myself in building robust, scalable applications.
 
 </center>
 
