@@ -5,7 +5,7 @@
 	
 #### About Me
 
-Highly motivated Full Stack Developer. I have a degree in Computer Science, commercial experience as a Software Developer and have immersed myself in building robust, scalable applications.
+Highly motivated Full Stack Developer. Degree in Computer Science, commercial experience as a Software Developer and have immersed myself in building robust, scalable applications.
 
 </center>
 
